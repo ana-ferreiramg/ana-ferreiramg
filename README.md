@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Ferreira.</h1>
 <h3 align="center">A passionate front-end developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **ES6.**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://anaferreira.netlify.app/](https://anaferreira.netlify.app/)
 
